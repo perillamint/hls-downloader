@@ -1,5 +1,5 @@
 {
-    "name": "node-hls-downloader",
+    "name": "@perillamint/node-hls-downloader",
     "version": "2.0.0",
     "description": "Download HLS streams.",
     "main": "dist/index.js",
